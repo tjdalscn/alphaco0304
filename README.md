@@ -8,7 +8,7 @@
 6. 결과  :
 !<img src = "output.jpg" width="400" height="200"/>
 7. 설계도 :
-!<img src = "architecture.jpg" width="200" height="400"/>
+!<img src = "architecture.jpg" width="400" height="200"/>
 8. 참고 :
 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
 9. 느낀점 :
