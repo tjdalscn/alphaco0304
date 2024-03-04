@@ -6,7 +6,7 @@
 4. 딥러닝 : CNN
 5. 데이터 : 0~9 의 숫자 이미지로 이루어진 MNIST Train 6만장, test 3만장
 6. 결과  :
-!<img src = "output.jpg" width="200" height="400"/>
+!<img src = "output.jpg" width="400" height="200"/>
 7. 설계도 :
 !<img src = "architecture.jpg" width="200" height="400"/>
 8. 참고 :
